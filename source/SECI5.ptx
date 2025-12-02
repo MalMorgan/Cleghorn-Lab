@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="SECI5" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Understanding the Reliability of the Sample Mean: Standard Error and Confidence Intervals</title>
+
+<p> 
+    When describing the typical sunfish in a population using the mean, it’s important to consider how <term>reliable</term> that mean actually is. One useful statistic for this purpose is the <term>standard error (S.E.)</term>, which incorporates both <term>sample size</term> and <term>variation</term>.
+</p>
+<p>
+    Imagine your ecology class has 25 students. 
+    Each student visits the same pond, samples 100 sunfish, measures their lengths, and calculates a mean and standard deviation. 
+    Even though everyone follows the same procedure, the 25-sample means won’t be identical. 
+    However, the variation among those means will be much smaller than the variation among individual fish in the pond.
+</p>
+<p>
+    In practice, repeating a sampling program 25 times isn’t feasible. 
+    Fortunately, statistics allows us to estimate the reliability of a single sample mean using the formula:
+</p>
+<me>
+    \text{Standard Error (S.E.)} = \frac{s}{\sqrt{n}}
+</me>
+<p>
+    Where:
+</p>
+<ul>
+    <li>
+        <p>
+            <term>s</term> is the sample standard deviation
+        </p>
+    </li>
+    <li>
+        <p>
+            <term>n</term> is the sample size
+        </p>
+    </li>
+</ul>
+<p>
+    This formula shows that:
+</p>
+<ul>
+    <li>
+        <p>
+            Greater <term>variation</term> in fish size (larger s) increases the standard error, making the mean less reliable.
+        </p>
+    </li>
+    <li>
+        <p>
+            A <term>larger sample size</term> (larger n) decreases the standard error, making the mean more trustworthy.
+        </p>
+    </li>
+</ul>
+<p>
+    In other words, the <term>more variable the population, the larger your sample must be</term> to keep the standard error acceptably small.
+</p>
+
+
+<subsection xml:id="subsec-SECI5-1">
+    <title>Confidence Intervals: Estimating the Range of the True Mean</title>
+    <p>
+        Because standard errors tend to follow a normal distribution, we can use them to calculate a <term>95% confidence interval</term>:
+    </p>
+    <me>
+        \text{95% Confidence Interval} = \bar{x} \pm 1.95(S.E.)
+    </me>
+    <p>
+        This interval give a range around your smaple mean (<m>\bar{x}</m>) where the true population mean (<m>\mu</m>) is likely to fall.
+        On a number line, this can be visualized as brakets around the sample mean.
+        A 95% confidence interval means that, under similar sampling conditions, the true mean will fall within this range <term>95% of the time</term>.
+    </p>
+</subsection>
+
+<subsection xml:id="subsec-SECI5-2">
+    <title>Why Confidence Limits Matter</title>
+    <p>
+        Reporting a sample mean without context—such as sample size, sampling method, or variation—is misleading. 
+        To be scientifically honest and transparent, always report:
+    </p>
+    <ul>
+    <li>
+        <p>
+            The <term>sample size (n)</term>
+        </p>
+    </li>
+    <li>
+        <p>
+            A <term>measure of variation</term> (standard deviation, variance, or standard error)
+        </p>
+    </li>
+    </ul>
+    <p>
+        Any of these statistics can be used to calculate the others, and all help readers understand how well your sample represents the population.
+    </p>
+</subsection>
+
+
+
+</section>

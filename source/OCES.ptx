@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="OCES" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Activity Two: Ocean Currents and Their Ecological Significance</title>
+
+  <p> 
+    Ocean currents — both surface and deepwater — play critical roles in regulating Earth’s climate and shaping global biomes. 
+    Surface currents, such as the Gulf Stream, are primarily driven by wind patterns. 
+    Their movement is influenced by differential heating of the atmosphere, the Coriolis effect due to Earth’s rotation, and the configuration of continental landmasses.</p>
+  <p> 
+    In contrast, deepwater currents are driven by differences in water density, which are affected by temperature and salinity. 
+    These currents facilitate the vertical movement of water, bringing nutrient-rich waters from the ocean depths to surface layers where they support marine life. 
+    Additionally, deepwater circulation is a key component of global heat transfer, helping to moderate climate across regions.</p>
+  <p> 
+    In this activity, you will investigate the physical mechanisms that drive deepwater currents and explore their ecological and climatological impacts. </p>
+<table>
+  <tabular halign="center" top="medium">
+    <row left="medium" bottom="medium">
+      <cell right="medium" colspan="2"><term>Materials:</term></cell>
+    </row>
+    <row left="medium" bottom="medium">
+      <cell right="medium">Plastic Container</cell>
+      <cell right="medium">Chilled Food Coloring</cell>
+    </row>
+    <row left="medium" bottom="medium">
+      <cell right="medium">2 Plastic Cups</cell>
+      <cell right="medium">Room Temperature Water</cell>
+    </row>
+    <row left="medium" bottom="medium">
+      <cell right="medium">Ice</cell>
+      <cell right="medium">Warm Water</cell>
+    </row>
+    <row left="medium" bottom="medium">
+      <cell right="medium">Sheet of White Paper</cell>
+      <cell right="medium"></cell>
+    </row>
+  </tabular>
+</table>
+
+
+<ol>
+  <li>
+    <p>Fill the plastic container half-full of room temperature water. Then place the container on top of the white paper.</p>
+  <image source="Ac2.jpg" />
+  </li>
+  <li>
+    <p>Fill one of the cups with ice and water and place it close to one end.</p>
+  </li>
+  <li>
+    <p>Fill the other cup with warm water and place it at the opposite end. If the cup floats, remove water from the plastic container until it does not float.</p>
+  </li>
+  <li>
+    <p>Place one drop of chilled food coloring between the two cups, close to the cup of ice water.</p>
+  </li>
+  <li>
+    <p>Observe the movement of the food dye through the water for several minutes.</p>
+    <p>Observe the food coloring from:</p>
+    <ol>
+      <li><p>Above the water</p></li>
+      <li><p>At a 45 degree angle</p></li>
+      <li><p>From the side of the container</p></li>
+    </ol>
+  </li>
+</ol>
+
+</section>

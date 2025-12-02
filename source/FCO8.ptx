@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="FCO" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Foundational Concepts and Objectives</title>
+
+  <subsection xml:id="subsec-p8">
+    <title>Purpose</title>
+    <p>
+        The purpose of this lab is to explore how biodiversity within an ecosystem change over time in response to various environmental pressures. 
+        By simulating a forest community and introducing real-world threats such as habitat loss, pollution, disease, overharvesting, invasive species, and climate change, students will gain a deeper understanding of the factors that influence species survival and ecosystem stability.
+    </p>
+</subsection>
+
+<subsection xml:id="subsec-LO8">
+    <title>Learning Objectives</title>
+  <p> You will: </p>
+<ul>
+    <li>
+        <p>
+            <term>LO 8.1:</term> Define biodiversity and explain its importance in maintaining ecosystem health.
+        </p>
+    </li>
+    <li>
+        <p>
+            <term>LO 8.2:</term>Differentiate between extinction, extirpation, and endangerment and describe how population changes signal biodiversity loss.
+        </p>
+    </li>
+    <li>
+        <p>
+            <term>LO 8.3:</term>Identify major threats to biodiversity, including habitat degradation, pollution, disease, overharvesting, invasive species, and climate change.
+        </p>
+    </li>
+    <li>
+        <p>
+            <term>LO 8.4:</term>Identify major threats to biodiversity, including habitat degradation, pollution, disease, overharvesting, invasive species, and climate change.
+        </p>
+    </li>
+    <li>
+        <p>
+            <term>LO 8.5:</term>Interpret graphical data to evaluate trends in species populations and relate these trends to ecological concepts.
+        </p>
+    </li>
+    <li>
+        <p>
+            <term>LO 8.6:</term>Explain the ecological consequences of biodiversity loss for communities and ecosystems.
+        </p>
+    </li>
+</ul>
+</subsection>
+
+<subsection xml:id="subsec-term8">
+    <title>Key Terms</title>
+    <p> Terms you may need to know! </p>
+<ul>
+    <li>
+        <p>
+           Biodiversity 
+        </p>
+    </li>
+    <li>
+        <p>
+           Extirpated
+        </p>
+    </li>
+    <li>
+        <p> 
+           Extinct
+        </p>
+    </li>
+    <li>
+        <p>
+           Endangered Species 
+        </p>
+    </li>
+    <li>
+        <p>
+           Habitat Degredation 
+        </p>
+    </li>
+    <li>
+        <p>
+           Biomagnification
+        </p>
+    </li>
+    <li>
+        <p>
+           Overharvesting 
+        </p>
+    </li>
+    <li>
+        <p>
+           Exotic Species
+        </p>
+    </li>
+    <li>
+        <p>
+           Invasive Species
+        </p>
+    </li>
+    <li>
+        <p>
+           Symbiosis
+        </p>
+    </li>
+    <li>
+        <p>
+           Ecosystem 
+        </p>
+    </li>
+    <li>
+        <p>
+           Climate Change
+        </p>
+    </li>
+    <li>
+        <p>
+           Deciduous Forest 
+        </p>
+    </li>
+    <li>
+        <p>
+           Population Decline
+        </p>
+    </li>
+</ul>
+</subsection>
+</section>

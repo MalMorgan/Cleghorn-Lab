@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="IQ8" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Introduction Questions</title>
+<ol>
+<li>
+<p> 
+   A trophic level is the position that an organism occupies in a food chain. Draw a food chain of the insect–plant community described in the Phenomenon that illustrates the flow of energy through four trophic levels. Use an arrow between each organism in the chain to indicate the direction of energy flow (i.e., an arrow from the food source to the feeder).
+</p>
+</li>
+<li>
+<p>
+    P. bicornis ants, clerid beetles, Piper plants, and herbivorous insects were sampled from two sites in a lowland tropical forest in Costa Rica. The table shows the relative density (High vs. Low) of individuals for all trophic levels in the Piper plant system previously described in the laboratory introduction.
+</p>
+<li>
+<p>
+What interactions might explain differences between the relative densities of organisms sampled at Site 1?
+</p>
+</li>
+<li>
+<p> 
+Is the relationship between the relative density of the clerid beetle population and that of the Piper plant population at Site 1 a direct or indirect relationship? Use evidence to support your claim.
+</p>
+</li>
+<li>
+<p>
+The relative density of clerid beetles is low at Site 2. Fill out the column of Site 2 in the table with your predictions for the relative densities of organisms at all other trophic levels
+</p>
+</li>
+</li>
+<li>
+<p>
+Exotic species are organisms introduced deliberately or accidentally into a habitat to which they are not native. Others, called invasive species, expand their range with increasing ecological, economic, and environmental consequences. Predict what may happen to the size of the P. bicornis ant population if an exotic species of plant is introduced into the lowland tropical forests of Costa Rica with very similar resource requirements as the native Piper plant. Assume that this exotic plant reproduces rapidly and demonstrates a faster growth rate than the native Piper plants.
+</p>
+</li>
+<li>
+<p>
+The lowland tropical forest community described in the Phenomenon is part of a highly dynamic ecosystem consisting of both biotic (living) and abiotic (nonliving) components. Many of these components work together to maintain stability, but ecosystems do change under certain circumstances. It is very important for ecologists to understand what leads to stability and what leads to change in an ecosystem if they are going to protect and conserve these systems. What factors result in ecosystem change? Make an initial claim regarding the factors that influence ecosystems both positively and negatively.
+</p>
+</li>
+    <li>
+        <table>
+            <tabular halign="center" top="medium">
+                <row left="medium" bottom="medium">
+                <cell right="medium">Organism</cell>
+                <cell right="medium">Color</cell>
+                <cell right="medium">1</cell>
+                <cell right="medium">2</cell>
+                <cell right="medium">3</cell>
+                <cell right="medium">4</cell>
+                <cell right="medium">5</cell>
+                <cell right="medium">6</cell>
+                <cell right="medium">7</cell>
+                <cell right="medium">8</cell>
+                <cell right="medium">9</cell>
+                <cell right="medium">10</cell>
+                <cell right="medium">11</cell>
+                <cell right="medium">12</cell>
+                <cell right="medium">13</cell>
+                <cell right="medium">14</cell>
+                <cell right="medium">15</cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">American Toad</cell>
+                <cell right="medium">Blue</cell>
+                <cell right="medium">25</cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Grasshopper</cell>
+                <cell right="medium">Black</cell>
+                <cell right="medium">25</cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                </row>
+<row left="medium" bottom="medium">
+                <cell right="medium">Red-Tailed Hawk</cell>
+                <cell right="medium">Brown</cell>
+                <cell right="medium">25</cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Oak</cell>
+                <cell right="medium">Orange</cell>
+                <cell right="medium">25</cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Sedge</cell>
+                <cell right="medium">Light Green</cell>
+                <cell right="medium">25</cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Cottontail Rabbit</cell>
+                <cell right="medium">Pink</cell>
+                <cell right="medium">25</cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Field Mouse</cell>
+                <cell right="medium">Yellow</cell>
+                <cell right="medium">25</cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Red-Headed Woodpecker</cell>
+                <cell right="medium">White</cell>
+                <cell right="medium">25</cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Black Rat Snake</cell>
+                <cell right="medium">Dark Green</cell>
+                <cell right="medium">25</cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium" colspan="3">Invasive Species</cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium"> </cell>
+                <cell right="medium">Red</cell>
+                <cell right="medium">0</cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium"></cell>
+                <cell right="medium">Red</cell>
+                <cell right="medium">0</cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium"></cell>
+                <cell right="medium">Red</cell>
+                <cell right="medium">0</cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium"></cell>
+                <cell right="medium">Red</cell>
+                <cell right="medium">0</cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium"></cell>
+                <cell right="medium">Red</cell>
+                <cell right="medium">0</cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                </row>
+            </tabular>
+        </table>
+    </li>
+<li>
+<p>
+Create a graph of your data. You need a title, axis titles, and a key as you use a different color for each organism
+</p>
+</li>
+<li>
+<p>
+List the factors that contributed to the loss of biodiversity of the forest community in order of how frequently they occurred over the 15 years, beginning with the most frequent and ending with the least
+</p>
+</li>
+<li>
+<p>
+Which event had the most devastating immediate consequence to a population? Which event caused a population to decline the most over the long term?
+</p>
+</li>
+<li>
+<p>
+Based on the game’s results, calculate the percent change in each species’ population in the ecosystem.
+</p>
+<me>\text{Percent Change} = [\frac{\text{(Final Population – Initial Population)}}{\text{Initial Population}}]x100%</me>
+<table>
+            <tabular halign="center" top="medium">
+                <row left="medium" bottom="medium">
+                <cell right="medium"><term>Organism</term></cell>
+                <cell right="medium"><term>Percent Change</term></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">American Toad</cell>
+                <cell right="medium"> </cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Grasshopper</cell>
+                <cell right="medium"> </cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium"> Red-Tailed Hawk</cell>
+                <cell right="medium"> </cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Oak</cell>
+                <cell right="medium"> </cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Sedge</cell>
+                <cell right="medium"> </cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Cottontail Rabbit</cell>
+                <cell right="medium"> </cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Field Mouse</cell>
+                <cell right="medium"> </cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Red-Headed Woodpecker</cell>
+                <cell right="medium"> </cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Black Rat Snake</cell>
+                <cell right="medium"> </cell>
+                </row>
+        </tabular>
+ </table>
+</li>
+<li>
+    <p>
+        Provide specific examples of the human activities that contributed to a loss of biodiversity.
+    </p>
+</li>
+<li>
+    <p>
+        The Changing Ecosystems game addresses only some consequences of biodiversity decline. Describe at least one consequence not addressed in the game.
+    </p>
+</li>
+<li>
+<p>
+    Using what you have learned from this investigation, make a claim regarding the categories of what can impact ecosystem stability.
+</p>
+</li>
+</ol>
+
+</section>

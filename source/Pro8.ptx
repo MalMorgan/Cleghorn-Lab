@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="Pro8" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Procedure</title>
+
+<p> 
+    In this activity, you’ll use the Changing Ecosystems game to model how biodiversity in a forest ecosystem changes over time. Your group will start with a plastic weigh boat filled with assorted beads—each color represents a different species in a deciduous forest community.
+</p>
+<p>
+    The game runs for 15 rounds, with each round representing one year. At the start of each year, draw an event card. Each card describes a condition or action that threatens certain species. If the card lists a threat to a species, remove the corresponding beads from your weigh boat. Each bead represents a percentage of that species’ population, so removing beads simulates population decline.
+</p>
+
+<p>
+    As you play, keep a record of:
+</p>
+<ol>
+    <li>
+        <p>
+            The number of beads removed
+        </p>
+    </li>
+    <li>
+        <p>
+            The species affected each year
+        </p>
+    </li>
+    <li>
+        <p>
+            Invasive species introduced
+        </p>
+    </li>
+    <p>
+        After completing all 15 rounds, you will graph the population changes over time and then answer the questions in the Analysis section.
+    </p>
+    <table>
+        <tabular halign="center" top="medium">
+            <row left="medium" bottom="medium">
+            <cell right="medium" colspan="2"><term>Materials:</term></cell>
+            </row>
+            <row left="medium" bottom="medium">
+            <cell right="medium">Deck of changing Ecosystems Game Cards</cell>
+            <cell right="medium">Deli Cup with a Lid</cell>
+            </row>
+            <row left="medium" bottom="medium">
+            <cell right="medium">Medicine Cups</cell>
+            <cell right="medium">Colored Pencils</cell>
+            </row>
+        </tabular>
+    </table>
+    <ol>
+        <li>
+            <p>
+                Fill a medicine cup with 1 tablespoon (~15 mL) of red beads from the centralized supply station.
+            </p>
+        </li>
+        <li>
+            <p>
+                Back at your station, carefully count 25 red beads into an empty medicine cup. Then return any extras to the supply station.
+            </p>
+        </li>
+        <li>
+            <p>
+                Review the Data Table and note the color of bead that represents each of the native species. The red beads represent the invasive species.
+            </p>
+        </li>
+        <li>
+            <p>
+                Shuffle the game cards and lay them face-down in a stack.
+            </p>
+        </li>
+        <li>
+            <p>
+                Draw the top card and read it aloud.
+            </p>
+        </li>
+        <li>
+            <p>
+                Remove or add the corresponding beads, as indicated by the instructions on the card. Place the card into a discard pile. Place the removed beads into the deli cup. Additional beads may be obtained from the centralized lab station as needed to satisfy the conditions of a particular game card.
+            </p>
+        </li>
+        <li>
+            <p>
+                Record how many of each bead remains in the data table. Remember that you start with 25 of each of the 9 native species and no invasives.
+            </p>
+        </li>
+        <li>
+            <p>
+                Keep track of the names and number of each invasive species introduced to the community. In the data table, write these names under “Invasive Species” and record the numbers added during each year.
+            </p>
+        </li>
+        <li>
+            <p>
+                Repeat steps 5 - 8 until you have completed 15 rounds (years) of the game. Note: If a population is extirpated, disregard that species in any following rounds that refer to it.
+            </p>
+        </li>
+        <li>
+                <p>
+                Use the data from the table to graph the populations of the various species (include the invasives collectively as one group) over time. Graph “Year” on the x-axis and “Population Size” on the y-axis. Use a colored pencil corresponding to the color of each species, and create a key to indicate the color that represents each species.
+                </p>
+        </li>
+    </ol>
+</ol>
+</section>

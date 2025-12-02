@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="Lab5" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Lab 5: Describing a Population</title>
+
+  <introduction>
+    <p>
+        Lab 5 Start.
+    </p>
+  </introduction>
+
+  <xi:include href="FCO5.ptx"/>
+  <xi:include href="bgi5.ptx"/>
+  <xi:include href="samp5.ptx"/>
+  <xi:include href="PV5.ptx"/>
+  <xi:include href="ISH5.ptx"/>
+  <xi:include href="RSM5.ptx"/>
+  <xi:include href="SECI5.ptx"/>
+  <xi:include href="Pro5.ptx" />
+  <xi:include href="DaPDS.ptx"/>
+  <xi:include href="DaPQ.ptx"/>
+
+</chapter>

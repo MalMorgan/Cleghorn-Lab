@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="FCO5" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Foundational Concepts and Objectives</title>
+  
+<subsection xml:id="subsec-p5">
+  <title>Purpose</title>
+  <p> The purpose of this lab is to explore how quantitative methods can be used to describe variation within a biological population. 
+    By measuring seed weights from a sample of bean seeds, students will learn how to collect representative data, construct histograms, and calculate key descriptive statistics — including mean, variance, standard deviation, and confidence intervals. 
+    These tools will help students interpret patterns of variation and understand how traits like seed weight relate to ecological and evolutionary processes such as resource allocation and reproductive strategy.
+  </p>
+</subsection>    
+
+<subsection xml:id="subsec-obj5">
+  <title>Learning Objectives</title>
+  
+  <p> You will: </p>
+    <ul>
+        <li>
+            <p>
+                <term>LO 5.1:</term> Identify potential sources of bias when collecting a sample from a biological population and apply strategies to ensure random and representative sampling 
+                (e.g., bean seed mixing and selection).
+            </p>
+        </li>
+        <li>
+            <p>
+                <term>LO 5.2:</term> Describe a statistical population using calculated measures of central tendency <term>(mean, median, mode)</term> and variation <term>(range, variance, standard deviation, standard error, confidence interval)</term>. 
+                Students should be able to compute these metrics by hand using sample data.
+            </p>
+        </li>
+        <li>
+            <p>
+                <term>LO 5.3:</term> Explain the role of descriptive statistics in ecological research, particularly in understanding variation, estimating population parameters, and evaluating the reliability of sample-based conclusions.
+            </p>
+        </li>
+        <li>
+            <p>
+                <term>LO 5.4:</term> Construct a histogram by hand to visualize the distribution of a biological trait (e.g., seed weight) and interpret its shape in the context of ecological variation and reproductive strategy.
+            </p>
+        </li>
+    </ul>
+</subsection>
+
+<subsection xml:id="subsec-term5">
+  <title>Key Terms</title>
+  
+  <p> Terms you may need to know! </p>
+    <ul>
+        <li>
+            <p>
+              Sample size (n) 
+            </p>
+        </li>
+        <li>
+            <p>
+              Population size (N)
+            </p>
+        </li>
+        <li>
+            <p> 
+              Sampling error
+            </p>
+        </li>
+        <li>
+            <p>
+              Random sample 
+            </p>
+        </li>
+        <li>
+            <p>
+              Representative sample 
+            </p>
+        </li>
+        <li>
+            <p>
+              Mean (<m>\bar{x}</m>)
+            </p>
+        </li>
+        <li>
+            <p>
+              Standard deviation (s, <m>\sigma</m>) 
+            </p>
+        </li>
+        <li>
+            <p>
+              Variance (<m>s^2</m>, <m>\sigma^2</m>)
+            </p>
+        </li>
+        <li>
+            <p>
+              Range
+            </p>
+        </li>
+        <li>
+            <p>
+              Size class 
+            </p>
+        </li>
+        <li>
+            <p>
+              Frequency 
+            </p>
+        </li>
+        <li>
+            <p>
+              Histogram 
+            </p>
+        </li>
+        <li>
+            <p>
+              Normal distribution 
+            </p>
+        </li>
+        <li>
+            <p>
+              Mode
+            </p>
+        </li>
+        <li>
+            <p>
+              Median 
+            </p>
+        </li>
+        <li>
+            <p>
+              Standard error (S.E.) 
+            </p>
+        </li>
+        <li>
+            <p>
+              Confidence interval 
+            </p>
+        </li>
+        <li>
+            <p>
+              95% confidence interval 
+            </p>
+        </li>
+        <li>
+            <p>
+              Parametric statistics
+            </p>
+        </li>
+        <li>
+            <p>
+              Non-parametric statistics 
+            </p>
+        </li>
+        <li>
+            <p>
+                Variation
+            </p>
+        </li>
+        <li>
+            <p>
+                Skewness
+            </p>
+        </li>
+        <li>
+            <p>
+                Multimodal distribution
+            </p>
+        </li>
+        <li>
+            <p>
+                Measurement error
+            </p>
+        </li>
+    </ul>
+</subsection>
+
+</section>

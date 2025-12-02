@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="DaPDS" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Data Collection</title>
+   
+  <ol>
+    <li>
+        <table>
+            <tabular halign="center" top="medium">
+                <row left="medium" bottom="medium">
+                <cell right="medium">Sample Number</cell>
+                <cell right="medium">Measurement for Sample (Xi)</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">Deviation</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">Deviation Squared (di^2)</cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">1</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">2</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">3</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">4</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">5</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">6</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">7</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">8</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">9</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">10</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">11</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">12</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">13</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">14</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">15</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">16</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">18</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">19</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">20</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">21</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">22</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">23</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">24</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">25</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">26</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">27</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">28</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">29</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">30</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">31</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">32</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">33</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">34</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">35</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">36</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">37</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">38</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">39</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">40</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">41</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">42</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">43</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">44</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">45</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">46</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">47</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">48</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">49</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">50</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">51</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">52</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">53</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">54</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">55</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">56</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">57</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">58</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">59</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">60</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">61</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">62</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">63</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">64</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">65</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">66</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">67</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">68</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">69</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">70</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">71</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">72</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">73</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">74</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">75</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">76</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">77</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">78</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">79</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">80</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Weight Sum</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">-(X)=</cell>
+                <cell right="medium"> </cell>
+                <cell right="medium">^2=</cell>
+                <cell right="medium"></cell>
+                </row>
+            </tabular>
+        </table>
+    </li>
+    <li>
+        <table>
+            <tabular halign="center" top="medium">
+                <row left="medium" bottom="medium">
+                <cell right="medium"></cell>
+                <cell right="medium">Weight</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">Standard Deviation</cell>
+                </row><row left="medium" bottom="medium">
+                <cell right="medium">Sum Weight of Beans</cell>
+                <cell right="medium"></cell>
+                <cell right="medium">Sum of Weight Standard Deviation</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Mean<m>\sum(X_i)/80</m></cell>
+                <cell right="medium"></cell>
+                <cell right="medium">Sample Variation<m>\sum(d_i^2)/(80-1)</m></cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium" colspan="2">Standar Deviation<m>\sqrt{s^2}</m></cell>
+                <cell right="medium" colspan="2"></cell>
+                </row>
+            </tabular>
+        </table>
+    </li>
+    <li>
+        <table>
+            <tabular halign="center" top="medium">
+                <row left="medium" bottom="medium">
+                <cell right="medium"></cell>
+                <cell right="medium">Summary of Results</cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Sample Size (n)</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Sample Mean (<m>\bar{x}</m>)</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Sample Variance (<m>s^2</m>)</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Standard Deviation (s)</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">Standard Error (S.E.)</cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium">95% Confidence Interval</cell>
+                <cell right="medium"></cell>
+                </row>
+            </tabular>
+        </table>
+    </li>
+    <li>
+        <table>
+            <tabular halign="center" top="medium">
+                <row left="medium" bottom="medium">
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                </row>
+                <row left="medium" bottom="medium">
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                <cell right="medium"></cell>
+                </row>
+            </tabular>
+        </table>
+    </li>
+  </ol>
+
+
+</section>

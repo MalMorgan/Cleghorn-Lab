@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="Lab3" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Lab 3: Modeling the Hydrosphere</title>
+
+  <introduction>
+    <p>
+        Lab 3 Start.
+    </p>
+  </introduction>
+
+
+  <!-- include sections -->
+  <xi:include href="FCO3.ptx" />
+  <xi:include href="bgi3.ptx" />
+  <xi:include href="pre3.ptx" />
+  <xi:include href="MGWD.ptx" />
+  <xi:include href="OCES.ptx" />
+  <xi:include href="FSAS.ptx" />
+  <xi:include href="Q3.ptx" />
+  
+
+</chapter>

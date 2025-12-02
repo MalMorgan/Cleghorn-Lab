@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="samp5" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Sampling</title>
+
+<p> 
+    To explore the power of quantitative description in ecology, you’ll use measurements and calculations to characterize a population. In biology, a population refers to a group of individuals of the same species living in the same place at the same time. Statisticians define a population more broadly—as any group of people, organisms, or objects under investigation. In ecological studies, our biological population often serves as a statistical population as well.
+</p>
+
+<p>
+    Take, for example, a population of red-ear sunfish in a freshwater lake. These fish may differ in age, size, health, or genetic traits, so observing just one individual tells us little about the group as a whole. Since it’s impractical to catch every fish, we rely on a sample, a subset of individuals that represents the larger population.
+</p>
+
+<p>
+    This raises a key question: How many individuals must we sample to capture the population’s variation? And just as importantly, how do we collect a sample that fairly represents the whole? Ecologists aim to avoid bias, which occurs when certain types of individuals are overrepresented. For instance, using baited hooks might only catch larger fish, skewing our estimates of size or age.
+</p>
+
+<p>
+    Once we have collected a sample, we can measure each individual and use those measurements to describe the population. If we are interested in fish size, we might measure each sunfish from snout to tail. Listing every measurement is accurate, but not very informative, our minds are not built to interpret long columns of numbers. Instead, we use statistics to summarize the data in meaningful ways.
+</p>
+
+<p>
+    One common statistic is the mean (average) length. Suppose we measure 80 sunfish and find the mean length is 12.07 cm. We use the symbol <m>\mu</m> to represent the true mean of the entire population, and <m>\bar{x}</m> for the mean of our sample, which we hope is a good estimate of <m>\mu</m>.
+</p>
+<p>
+    However, means can be misleading. If our population includes both small one-year-old fish and larger two-year-olds, the mean might fall between the two size groups, representing a “typical” fish that does not exist. That is why we often use additional statistics:
+</p>
+
+<li>
+<p>
+Median: the middle value when all measurements are ordered numerically.
+</p>
+</li>
+<li>
+<p>
+Mode: the most frequently occurring measurement in the sample.
+</p>
+</li>
+
+<p>
+    Together, these statistics help us build a completer and more accurate picture of the population we’re studying.
+</p>
+
+</section>

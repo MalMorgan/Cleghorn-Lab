@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="Lab8" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Lab 8: Life on the Edge: Modeling Endangered Ecosystems</title>
+
+  <introduction>
+    <p>
+        Lab 8 Start.
+    </p>
+  </introduction>
+
+
+  <xi:include href="FCO8.ptx"/>
+  <xi:include href="bgi8.ptx"/>
+  <xi:include href="Pro8.ptx"/>
+  <xi:include href="IQ8.ptx"/>
+
+</chapter>

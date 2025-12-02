@@ -7,14 +7,19 @@
   <bibinfo>
   
     <author>
-      <personname>You</personname>
-      <department>Your department</department>
-      <institution>Your institution</institution>
+      <personname>Keeley Cleghorn, Ph.D.</personname>
+      <department>Department of Science and Mathematics</department>
+      <institution>Saint Mary-of-the-Woods College</institution>
+    </author>
+    <author>
+      <personname>
+        Mallorie Morgan
+      </personname>
     </author>
     <date>
       <today />
     </date>
-
+    
     <website>
       <url href="https://pretextbook.org">My Website</url>
     </website>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="RSM5" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>How Reliable is the Sample Mean?</title>
+
+<p> 
+    When we calculate the mean from a sample of fish, we need to ask: <term>how trustworthy is that number?</term> 
+    Two key factors affect its reliability:
+</p>
+<ol>
+    <li>
+        <p>
+            <term>Sample Size (n):</term>
+        </p>
+        <p>
+            The number of individuals in your sample plays a major role. 
+            If fish in the lake vary widely in size, a mean based on a small sample—say, 10 fish—might be misleading. 
+            By chance, you could catch mostly larger or smaller individuals, skewing your estimate of the population average. 
+            But if your sample includes 1,000 fish, it’s much more likely that the calculated mean will closely reflect the true population mean.
+        </p>
+    </li>
+    <li>
+        <p>
+            <term>Population Variation:</term>
+        </p>
+        <p>
+            The required sample size depends on how much variation exists in the population. 
+            In a fish farm where all fish are nearly the same size, even a small sample can yield reliable results. 
+            But in a natural population with a wide range of sizes, a larger sample is needed to capture that diversity. 
+            In short: <term>the more variable the population, the larger the sample must be to produce a reliable mean</term>.
+        </p>
+    </li>
+</ol>
+<p>
+    This leads to a core principle in data collection: the larger the sample, the lower the chance of random sampling error.
+</p>
+<p>
+    We use n to represent the sample size and N for the total population size. 
+    While N is often unknown, it can sometimes be estimated.
+</p>
+
+<subsection xml:id="subsec-RSM5-1">
+    <title>Measuring Variation: Standard Deviation</title>
+    <p>
+        To quantify variation around the mean, we use a statistic called the <term>standard deviation (s.d.)</term>. 
+        It tells us how spread out the measurements are. 
+        We use:
+    </p>
+    <ul>
+    <li>
+        <p>
+            s for the standard deviation of a sample
+        </p>
+    </li>
+    <li>
+        <p>
+            <m>\sigma</m> (sigma) for the standard deviation of the entire population
+        </p>
+    </li>
+    </ul>
+    <p>
+        Standard deviation is expressed in the same units as the original data—in this case, centimeters. 
+        On a number line, it can be visualized as a portion of the range. 
+        In a <term>normally distributed</term> population, about <term>95% of individuals fall within 1.96 standard deviations</term> of the mean. 
+        This means that if you mark two standard deviations above and below the mean on a histogram’s x-axis, most of your data will fall within that span.
+    </p>
+</subsection>
+
+<subsection xml:id="subsec-RSM5-2">
+    <title>Calculating Standard Deviation: Start with Variance</title>
+    <p>
+        To calculate standard deviation, we first compute a related statistic: <term>variance</term>. 
+        Variance is the square of the standard deviation:
+    </p>
+<ul>
+    <li>
+        <p>
+            <m>s^2</m> = sample variance
+        </p>
+    </li>
+    <li>
+        <p>
+            <m>\sigma^2</m> = population variance
+        </p>
+    </li>
+</ul>
+    <p>
+        Variance is calculated by:
+    </p>
+    <ol>
+        <li>
+            <p>
+                Finding the difference between each observation and the mean.
+            </p>
+        </li>
+        <li>
+            <p>
+                Square the difference.
+            </p>
+        </li>
+        <li>
+            <p>
+                Averaging those squared values.
+            </p>
+        </li>
+    </ol>
+    <p>
+        Since variance involves squaring the units, it’s expressed in squared units (e.g., cm<m>^2</m>). 
+        To return to the original units, we take the <term>square root of the variance</term>, which gives us the standard deviation in centimeters.
+    </p>
+</subsection>
+
+
+
+</section>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="bgi8" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Introduction</title>
+
+<subsection xml:id="subsec-IB">
+    <title>Introduction to Biodiversity and Its Threats</title>
+    <p> Biodiversity describes the variety of life within a given area, the number of species, their populations, and the roles they play in ecosystems. When biodiversity declines, it usually means species are disappearing. A shrinking population signals that a species may vanish from a community. If a species disappears from a local area, it is considered <term>extirpated</term> (locally extinct). If it disappears from the planet entirely, it is <term>extinct</term>. Species whose numbers have dropped so low that they are at risk of extinction are classified as <term>endangered</term>. </p>
+<p>The greatest cause of biodiversity loss is <term>habitat degradation</term>. As human populations expand, they consume more resources: forests are cleared for agriculture, rivers are dammed, coastlines are crowded with development, and mountains are mined for minerals. Organisms must either survive in the remaining natural areas or adapt to human-altered landscapes. Many species cannot cope with fragmented or degraded habitats and eventually die out.
+</p>
+</subsection>
+<subsection xml:id="subsec-MTB">
+    <title>Other Major Threats to Biodiversity</title>
+    <ol>
+        <li>
+            <p> 
+                <term>Pollution and Disease</term> 
+            </p>
+            <p>
+                Pollution can devastate ecosystems suddenly or gradually. 
+                A chemical spill may wipe out an entire pond community, while low-level toxins accumulate over time, concentrating in organisms and magnifying up the food chain—a process called <term>biomagnification</term>. 
+                For example, the pesticide DDT caused dramatic declines in raptors and seabirds in the 1960s. 
+                Mercury, another toxin, accumulates in top predators like tuna and swordfish. 
+                Disease also plays a role: pathogens introduced to populations without immunity can be catastrophic. 
+                The American chestnut, once a dominant tree in eastern U.S. forests, was nearly eliminated by a fungal disease introduced from Asia in the early 1900s.
+            </p>
+        </li>
+        <li>
+            <p>
+                <term>Overharvesting</term>
+            </p>
+            <p>
+                Humans have overexploited many species for food, trade, and traditional uses. Whales, American bison, and passenger pigeons were driven to near extinction or eliminated entirely. 
+                Overharvesting can also ripple through ecosystems, affecting species that depend on the harvested organisms. 
+                Plants like ginseng and animals like rhinoceroses have been severely depleted because of their perceived medicinal value—ironically, rarity often increases their market price.
+            </p>
+        </li>
+        <li>
+            <p>
+                <term>Introduction of Nonnative Species</term>
+            </p>
+            <p>
+                Humans have overexploited many species for food, trade, and traditional uses. 
+                Whales, American bison, and passenger pigeons were driven to near extinction or eliminated entirely. 
+                Overharvesting can also ripple through ecosystems, affecting species that depend on the harvested organisms. 
+                Plants like ginseng and animals like rhinoceroses have been severely depleted because of their perceived medicinal value—ironically, rarity often increases their market price.
+            </p>
+        </li>
+        <li>
+            <p>
+                <term>Climate Change</term>
+            </p>
+            <p>
+                Climate change is an emerging and global threat. 
+                Rising temperatures, melting ice, and shifting precipitation patterns are transforming habitats faster than many species can adapt. 
+                Polar ecosystems are already experiencing dramatic changes, and projections suggest that extinction risk will rise sharply as warming continues.
+            </p>
+        </li>
+    </ol>
+</subsection>
+
+<subsection xml:id="subsec-ES">
+    <title>Ecosystems and Symbiosis</title>
+    <p>
+        An <term>ecosystem</term> includes all interactions between living organisms (producers, consumers, decomposers) and nonliving components (sunlight, water, soil, nutrients) in a given area. 
+        Ecosystems range from vast forests to a single plant and its inhabitants. 
+        For example, some tropical Piper plants form a mutualistic relationship with <term>Pheidole bicornis</term> ants. 
+        The ants defend the plant from herbivores and competing vegetation, while the plant provides food and nesting sites—a classic example of <term>symbiosis</term>. 
+    </p>
+</subsection>
+</section>

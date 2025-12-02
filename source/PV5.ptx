@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="PV5" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Picturing Variation</title>
+
+<p> 
+    Once we’ve calculated statistics to describe the “typical” individual in a population, we still need to account for variation among individuals. One effective way to visualize this variation is with a histogram, a simple graph that shows how measurements are distributed across a population.
+</p>
+
+<p>
+    Here’s how to create a histogram using fish length as an example:
+</p>
+  <ol>
+    <li>
+        <p>
+            <term>Choose a measurement variable.</term> Let’s use the length of red-ear sunfish. Suppose we have measured 80 fish to the nearest millimeter.
+        </p>
+    </li>
+    <li>
+        <p>
+            <term>Determine the range of measurements.</term> Identify the shortest and longest fish in your sample. The <term>range</term> is the difference between these two values. For example, if the shortest fish is 8.5 cm and the longest is 16.3 cm, the range is 7.8 cm.
+        </p>
+    </li>
+    <li>
+        <p>
+            <term>Divide the range into equal intervals.</term> These intervals are called <term>size classes</term>. It’s common to use between 10 and 20 classes. In our case, we’ll use 16 classes, each 0.5 cm wide:
+        </p>
+        <ol>
+            <li>
+                <p>
+                    The first class includes fish from 8.5 to 8.9 cm.
+                </p>
+            </li>
+            <li>
+                <p>
+                    The next includes fish from 9.0 to 9.4 cm.
+                </p>
+            </li>
+            <li>
+                <p>
+                    This continues up to the final class, which includes fish from 16.0 to 16.4 cm.
+                </p>
+            </li>
+        </ol>
+    </li>
+    <li>
+        <p>
+            <term>Count how many individuals fall into each class.</term> 
+            This count is called the frequency of the class. 
+            You can mark each measurement with an “X” on the number line to visualize how many fish fall into each category.
+        </p>
+            <li>
+                <table>
+                    <tabular halign="center" top="medium">
+                        <row left="medium" bottom="medium">
+                        <cell right="medium">Size Class (cm)</cell>
+                        <cell right="medium">Frequency</cell>
+                        </row>
+                        <row left="medium" bottom="medium">
+                        <cell right="medium">8.5 – 8.9</cell>
+                        <cell right="medium">1</cell>
+                        </row>
+                        <row left="medium" bottom="medium">
+                        <cell right="medium">9.0 – 9.4</cell>
+                        <cell right="medium">3</cell>
+                        </row>
+                        <row left="medium" bottom="medium">
+                        <cell right="medium">9.5 – 9.9</cell>
+                        <cell right="medium">4</cell>
+                        </row>
+                        <row left="medium" bottom="medium">
+                        <cell right="medium">10.0 – 10.4</cell>
+                        <cell right="medium">5</cell>
+                        </row>
+                        <row left="medium" bottom="medium">
+                        <cell right="medium">10.5 – 10.9</cell>
+                        <cell right="medium">6</cell>
+                        </row>
+                        <row left="medium" bottom="medium">
+                        <cell right="medium">11.0 – 11.4</cell>
+                        <cell right="medium">8</cell>
+                        </row>
+                        <row left="medium" bottom="medium">
+                        <cell right="medium">11.5 – 11.9</cell>
+                        <cell right="medium">10</cell>
+                        </row>
+                        <row left="medium" bottom="medium">
+                        <cell right="medium">12.0 – 12.4</cell>
+                        <cell right="medium">12</cell>
+                        </row>
+                        <row left="medium" bottom="medium">
+                        <cell right="medium">12.5 – 12.9</cell>
+                        <cell right="medium">10</cell>
+                        </row>
+                        <row left="medium" bottom="medium">
+                        <cell right="medium">13.0 – 13.4</cell>
+                        <cell right="medium">9</cell>
+                        </row>
+                        <row left="medium" bottom="medium">
+                        <cell right="medium">13.5 – 13.9</cell>
+                        <cell right="medium">7</cell>
+                        </row>
+                        <row left="medium" bottom="medium">
+                        <cell right="medium">14.0 – 14.4</cell>
+                        <cell right="medium">5</cell>
+                        </row>
+                        <row left="medium" bottom="medium">
+                        <cell right="medium">14.5 – 14.9</cell>
+                        <cell right="medium">3</cell>
+                        </row>
+                        <row left="medium" bottom="medium">
+                        <cell right="medium">15.0 – 15.4</cell>
+                        <cell right="medium">2</cell>
+                        </row>
+                        <row left="medium" bottom="medium">
+                        <cell right="medium">15.5 – 15.9</cell>
+                        <cell right="medium">1</cell>
+                        </row>
+                    </tabular>
+                </table>
+            </li>
+    </li>
+    <li>
+        <p>
+            <term>Construct the histogram.</term> 
+            Each bar represents a size class, and the <term>height of the bar</term> shows the proportion of the population in that class. 
+            Taller bars indicate more individuals in that size range.
+        </p>
+    </li>
+</ol>
+<p>
+    *INSERT PICTURE* Histograms help ecologists see patterns in population structure—such as whether most individuals are small, large, or evenly distributed. They’re a powerful tool for summarizing variation and making sense of complex data.
+</p>
+
+</section>

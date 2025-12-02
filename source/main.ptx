@@ -4,16 +4,18 @@
   <!-- we first include a file which contains the docinfo element: -->
   <xi:include href="./docinfo.ptx" />
 
-  <book xml:id="mathematics_of_genetics">
-    <title>The Mathematics of Genetics</title>
-    <subtitle>Something Something Genetics</subtitle>
+  <book xml:id="Ecology_Lab">
+    <title>BI:341</title>
+    <subtitle>SMWC Ecology</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
-
+    <xi:include href="./ch-itg.ptx" />
+    <xi:include href="./Lab3.ptx" />
+    <xi:include href="./Lab5.ptx" />
+    <xi:include href="./Lab8.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />

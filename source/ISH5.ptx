@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="ISH5" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Interpreting the Shape of a Histogram</title>
+        
+<p> 
+    In our sample histogram, the most frequently observed size classes fall near the center of the distribution. 
+    Very small and very large fish are relatively rare, while intermediate sizes are more common. 
+    The overall shape of the histogram resembles a <term>bell curve</term>, symmetrical, with gently rounded shoulders and tapered tails at both ends. 
+    Statisticians refer to this shape as a <term>normal distribution</term>.
+</p>
+<p>
+    This pattern of variation is common in nature, especially when a trait is influenced by many independent factors. 
+    For example, fish size can be affected by temperature, diet, water quality, genetics, and more. 
+    When multiple influences interact, the resulting variation often follows a normal distribution.
+</p>
+<p>
+    Since this pattern appears so frequently, many statistical tools used in ecology assume that data are normally distributed. 
+    These tools are known as <term>parametric statistics</term>. 
+    However, if your histogram shows a skewed shape, multiple peaks, or an unusually wide or narrow spread, parametric tests may not be appropriate. 
+    In such cases, ecologists turn to <term>non-parametric statistics</term>, which are designed for data that do not follow a normal distribution.
+</p>
+<p>
+    This is why it is important to <term>visualize your data</term> before moving forward with analysis. 
+    Drawing a histogram allows you to assess the nature of variation in your sample and determine whether parametric methods are suitable.
+</p>
+
+</section>

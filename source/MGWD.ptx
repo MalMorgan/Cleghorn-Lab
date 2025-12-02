@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="MGWD" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Activity One: Modeling Global Water Distribution</title>
+
+<p> Although approximately 70% of Earth’s surface is covered by water, the vast majority is saltwater—unsuitable for most human and ecological needs. 
+    This activity will help you visualize the limited availability of freshwater resources. </p>
+<p> Using a clay model to represent the total volume of water on Earth, you will divide it into segments that reflect the relative proportions of: </p>
+<ul>
+    <li>
+        <p>
+            Saltwater in oceans
+        </p>
+    </li>
+    <li>
+        <p>
+            Freshwater stored in ice caps and glaciers
+        </p>
+    </li>
+    <li>
+        <p>
+            Groundwater
+        </p>
+    </li>
+    <li>
+        <p>
+            Surface water (lakes, rivers, and streams)
+        </p>
+    </li>
+</ul>
+<p>
+    This hands-on exercise emphasizes the scarcity of accessible freshwater and encourages critical thinking about global water distribution and resource management.
+</p>
+<table>
+  <tabular halign="center" top="medium">
+    <row left="medium" bottom="medium">
+      <cell right="medium"><term>Materials:</term></cell>
+    </row>
+    <row left="medium" bottom="medium">
+      <cell right="medium">Stick of Clay (~0.25 lbs)</cell>
+    </row>
+    <row left="medium" bottom="medium">
+      <cell right="medium">Knife</cell>
+    </row>
+    <row left="medium" bottom="medium">
+      <cell right="medium">Balance</cell>
+    </row>
+  </tabular>
+</table>
+<ol marker="(1)">
+  <li>
+    <p>
+      Weigh in grams the stick of clay. <alert>Record this in your data table.</alert> This weight represents the total amount of water on the planet.
+    </p>
+  </li>
+  <li>
+    <p>
+      First represent the earth’s saltwater, 97% of the total water. 
+      Multiply the weight of the clay by 0.97 to get the weight of the clay that represents saltwater. 
+      <alert>Record this in your data table.</alert> Using the scale and knife, cut off enough clay to represent this number and set aside.
+    </p>
+  </li>
+  <li>
+    <p>
+      Of the remaining 3% of water on the planet approximately 69% is contained in the polar icecaps and glaciers. 
+      Weight the small piece of clay <alert>(Record this in your data table)</alert> and then multiply its weight by 0.69. 
+      <alert>Record this in your data table</alert>, and then cut off and set aside.
+    </p>
+  </li>
+  <li>
+    <p>
+      From the remaining piece of clay, remove the amount that represents groundwater. 
+      Weigh the piece of clay, Record this in your data table. 
+      Groundwater represents 97% of the remaining water, multiply the current weight of clay by 0.97, <alert>Record this in your data table</alert>, remove that amount and set it aside.
+    </p>
+  </li>
+  <li>
+    <p>
+      Weigh the clay that is left and <alert>Record this in your data table.</alert> 
+      The remaining piece of clay represents the total amount of surface water on the earth – the freshwater found in all the lakes, rivers, and watersheds. 
+      This also includes water in the atmosphere and inside living organisms.
+    </p>
+  </li>
+</ol>
+
+</section>

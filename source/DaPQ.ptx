@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="DaPQ" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Questions</title>
+
+  <ol>
+    <li>
+        <p>
+            <term>Histogram Interpretation</term>
+        </p>
+        <ul>
+            <li>
+                <p> 
+                    Compare your histogram to the shape of a normal distribution. 
+                    Does it resemble a bell-curve, or does it show a different pattern. 
+                </p>
+            </li>
+            <li>
+                <p>
+                    Describe any deviations: Is the distribution bimodal, skewed, flattened, or sharply peaked?
+                </p>
+            </li>
+            <li>
+                <p>
+                    Based on the shape of your data, would you feel confident using parametric statistics, or would a non-parametric alternative be more appropriate?
+                </p>
+            </li>
+            <li>
+                <p>
+                    Do you think your sample size was sufficient to make this judgment? 
+                    Why or why not?
+                </p>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <p>
+            <term>Central Tendency</term>
+        </p>
+        <ul>
+            <li>
+                <p>
+                    The mean, median, and mode are all ways to describe the “typical” individual in a population. 
+                    Based on your data, do these three statistics differ significantly? 
+                </p>
+            </li>
+            <li>
+                <p>
+                    How does the similarity or difference among them relate to the shape of your histogram?
+                </p>
+            </li>
+        </ul>
+        </li>
+        <li>
+            <p>
+                <term>Variation and Reliability</term>
+            </p>
+            <ul>
+                <li>
+                    <p>
+                        What do the variance, standard deviation, and standard error tell you about your population that the mean alone does not?
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Why is it important to report a measure of variation and sample size alongside the mean?
+                    </p>
+                </li>
+            </ul>
+    </li>
+    <li>
+        <p>
+            <term>Confidence Intervals</term>
+        </p>
+        <ul>
+            <li>
+                <p>
+                    Did your calculated 95% confidence interval include the population mean determined by weighing all the beans?
+                </p>
+            </li>
+            <li>
+                <p>
+                    What does this tell you about the reliability of your sample mean?
+                </p>
+            </li>
+        </ul>
+    </li>
+  </ol>
+            
+</section>

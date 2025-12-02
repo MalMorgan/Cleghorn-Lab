@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="Pro5" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Procedure</title>
+
+  
+<table>
+    <tabular halign="center" top="medium">
+        <row left="medium" bottom="medium">
+        <cell right="medium" colspan="2">Materials:</cell>
+        </row>
+        <row left="medium" bottom="medium">
+        <cell right="medium">1 Pound of Beans</cell>
+        <cell right="medium">Scale</cell>
+        </row>
+        <row left="medium" bottom="medium">
+        <cell right="medium">Weighing Tray</cell>
+        <cell right="medium">Calculator</cell>
+        </row>
+    </tabular>
+</table>
+<ol>
+    <li>
+        <p>
+            <term>Understanding the Biological Context</term>
+        </p>
+        <p>
+            Each seed in your bag is a living organism, collected from a mature population of annual plants. 
+            If sprouted and grown to maturity, these seeds would form a new population of bean plants. 
+            Seed weight is not only important in agriculture—it also plays a key role in wild plant ecology. 
+            Heavier seeds often grow faster and survive better, but they require more resources from the parent plant. 
+            This creates a tradeoff: plants that produce larger seeds typically produce fewer of them. 
+            This balance between seed size and number is shaped by genetics, influenced by natural selection, and varies across species. 
+            Measuring the <term>mean</term> and <term>variance</term> of seed weights helps us understand the reproductive strategy of the plant population.
+        </p>
+    </li>
+    <li>
+        <p>
+            <term>Design a Sampling Strategy</term>
+        </p>
+        <p>
+            Your sample will consist of <term>80 beans</term>. 
+            Avoid simply grabbing the top layer of seeds from the bag, as this may result in a biased sample—larger or smaller seeds may have settled unevenly during transport. 
+            Instead, spread the beans out on a clean lab bench, mix them thoroughly, and select the 80 beans closest to your side. 
+            This approach helps ensure your sample is <term>random and representative</term>.
+        </p>
+    </li>
+    <li>
+        <p>
+            <term>Weigh and Record Your Data</term> 
+        </p>
+        <p>
+            Use a precision balance to weigh each of the 80 beans individually. 
+            Record weights in <term>milligrams (mg)</term> for consistency and ease of analysis. 
+            For example, a bean weighing 0.087 g should be recorded as 87 mg. 
+            If your balance only measures to two decimal places, round accordingly (e.g., 0.09 g = 90 mg). 
+            Enter all measurements into your laboratory worksheet.
+        </p>
+    </li>
+    <li>
+        <p>
+            <term>Create a Hisotgram</term> 
+        </p>
+        <p>
+            Using your recorded data, construct a <term>histogram</term> to visualize the distribution of seed weights. 
+            Follow the format demonstrated in the lab introduction.
+        </p>
+    </li>
+    <li>
+        <p>
+            <term>Calculate Descriptive Statistics</term>
+        </p>
+        <p>
+            Compute the following statistics for your example:
+        </p>
+        <ul>
+        <li>
+            <p>
+                <term>Mean</term>
+            </p>
+        </li>
+        <li>
+            <p>
+                <term>Standard Deviation (s)</term>
+            </p>
+        </li>
+        <li>
+            <p>
+                <term>Standard Error (S.E.)</term>
+            </p>
+        </li>
+        <li>
+            <p>
+                <term>95% Confidence Interval</term>
+            </p>
+        </li>
+        </ul>
+    </li>
+    <li>
+        <p>
+            <term>Interpret Your Results</term>
+        </p>
+        <p>
+            Examine your histogram and statistics. 
+            What do they reveal about variation in seed weight for this species? 
+            Answer the <term>Discussion Questions</term> provided in your worksheet. 
+            Consider whether natural selection would always produce a symmetrical distribution of seed weights.
+        </p>
+    </li>
+    <li>
+        <p>
+            <term>Verify Your Sample Accuracy</term>
+        </p>
+        <p>
+            With your lab group, count the total number of beans in the bag. 
+            Then weigh the entire population using a plastic tray, subtracting the tray’s weight. 
+            If the balance can't accommodate all beans at once, divide them into smaller groups, weigh each, and sum the totals. 
+            Calculate the <term>population mean</term> by dividing the total weight by the number of beans. 
+            Compare this population mean to your sample mean from Step 5. 
+            Does the population mean fall within your calculated <term>95% confidence interval</term>?
+        </p>
+    </li>
+</ol>
+
+</section>
